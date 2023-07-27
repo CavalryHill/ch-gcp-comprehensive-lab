@@ -6,7 +6,7 @@ default = ""
 # 建立的 Bucket 名稱
 variable "bucket_name" {
   type=string
-  default = "comphrehensive-lab-bucket"
+  default = "comprehensive-lab-bucket"
 }
 # 待上傳的圖片位置
 variable "file_location" {
