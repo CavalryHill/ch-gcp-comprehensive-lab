@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "turnkey-thought-390608",
+  "private_key_id": "52508c53c82720fae80f0ea0b418d25dbf9a6c5c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLvhWE1+K0oFZA\ngNtnzRlJYvxeVVgHfaCvhZ6iRT7BdavGmGsAzl38ggPDxIlhsDM44c5qWTEvbTH2\nNYjXA15bvLVo8LjQNg5cMS6wjayuHScIQPM7bHwvcFcFby8iZbDgIzOQNL/cu6oe\nDGf6jN5m/UCbNwn4AlWrZpCoIyhV+daOffaHzoE5+mM58YtapknB2L80rcgrpp/X\nMHNqOVRvmsRX/pZyFiuAq16LoFqW3NydFKWsFXBhEeg3oCHm8lORHAAYibsp9dTH\nPs1pJqEYrlS2XhWdsYC9yfBU0rw0HfaUj7samok2q3mpBjA/J+PdMFiSQi912CAq\nC24z3A2JAgMBAAECggEABg8YRKeV1WRzvDIHlFU/13QhQPQmPenc7fUwMNu77er7\nMjF3pXglA+yhIBvbV71VHirRO8QGuiiHlPN+iY4UDVKV6vky56fFuhdzkjIDxqkB\nqn9JNRZiyQ2aeYQW+1PGA02bJsKEDzvBoo/R9wOfXHp6kKWRkHDBBpz8MIlmgcv8\nXBWT5IraVGDjT8E7gwCsxeXIkZ2dhK3mO1DxlfxL4dGkIZrEl6xlRPQGtzHYbqnx\nTVxoClYRhOOJpr0e76e1Ht7XqZTZLhv+q/xGxYXIw381AI2RQXgO5NAxBFd5/sX3\nXO5n9vzYyRehxn0vV7uMWYPc7KXnd34MYKRjQplaiwKBgQD20Mk0/bwhvsM/fqF5\nwTG24egZV8qjkzMUtnLpZpEZeXokCyx2UK2tlhPgrat+BBLUZph1fqm3HXsW7Gqz\nodG9B1hOEBOCASuIIbmCLZneiJUKxVpBAmoxZhlVZxs+1DAtRPNLic/nQTgxwe/3\nlAwZd0sEOzQg53p9s33Ofx5kWwKBgQDTUvnDqRqwsnsf6KYQcm85Cmo1X4NLQVCu\nY0cG6gDesRQmM43IC+X4icWS9JJCnMseH7f59n3DX6aMnGOQFlT7Qn2Zg/3tEliy\n1LaRUKo4lg3LsCnU3U6wT/bZrNRomntGZZUNps12FH7fVKJxB3vJu6K8pGdBSrKB\nTpuKL60q6wKBgFIt0GC5fzOJLb9tbVx5zBDFhR8zEQCH2YEzAm3ePb/Kp7VqlwJJ\n+JoMl0++45PQzWg1RNwSMXYL9dj7HMf0wD39PRS425X0x8bK29aRUmM6/M0aSuPM\nZwlNom/CJds0kVnxVES5fSTVnV1L4pd/jsvH4Y1mHQQ7rpg99EyWHMtzAoGBAL6Z\nqliFX2Nbt52SEqXm8NY7xIubOCpaINEJDfj4egxhHtFN0mVKBgPjD2Z6XKjkDnd/\nGErFvazHysosC8jbu45b7DjYSeDXmVTCcmAip0UeYhcDLtelO+HeXcD7FyG5o9Jc\nsNF9TvdfiQcZqOHVZBsRt7f5eH/1RYdHRRaf5co9AoGAFL8Cc7YCQJ0KliQDkj3O\ngSYgDBNKv3U20aeBjuhhi0TekDcmd43zorENL+YFbW24Sw+MnjN3Ra6lgjSK2KGz\nh591EU897VUJFmIhmqFD5vgLkvJyp/7qKIJnW5M2/bSFFp5DIDOc0KCBY0U+2sVR\nKVjCpKxRsaanmDMYmCaNa/0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "comprehensive-lab-account@turnkey-thought-390608.iam.gserviceaccount.com",
+  "client_id": "118433681820975192238",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/comprehensive-lab-account%40turnkey-thought-390608.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
